@@ -1,4 +1,8 @@
-### Hi there 👋
+# Hey Yo! 👋
+
+My name is Philip, and right now I'm an engineering student at the University of Colorado Boulder. This spring ('23), I will be graduating with a BS in Computer Science with Honors. 
+
+Check out some of my repositories! 
 
 <!--
 **philipknott/philipknott** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
