@@ -2,6 +2,8 @@
 
 My name is Philip, and right now I'm an engineering student at the University of Colorado Boulder. This spring ('23), I will be graduating with a BS in Computer Science with Honors. 
 
+I'm experienced with Frontend Development and UI/UX Design, but am also interested in Machine Learning and Graphic Design. 
+
 Check out some of my repositories! 
 
 <!--
